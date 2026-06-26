@@ -66,8 +66,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhingthao1203&repo=VinDatathon_2026&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nhingthao1203/nhingthao1203nhingthao1203.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhingthao1203&repo=nhingthao1203&theme=tokyonight" />
+<a href="https://github.com/nhingthao1203/RAG-Document-QA.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhingthao1203&repo=RAG-Document-QA&theme=tokyonight" />
 </a>
 
 
