@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="320" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+<img align="left" alt="Brain" width="330" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 <h2 align="center">Hi 👋!</h2>
 <h3 align="center">I'm Nguyen Thao Nhi and I am a Computer Science graduated with a keen interest in Data Analysis, passionate about exploring numbers and deriving meaningful insights.</h3>
